@@ -2,7 +2,7 @@ module github.com/bnb-chain/bcfusion
 
 go 1.20
 
-require github.com/bnb-chain/go-sdk v1.3.2
+require github.com/bnb-chain/go-sdk v9.6.3
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
